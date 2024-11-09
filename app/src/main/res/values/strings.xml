@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">PC021910093519200200</string>
+    <string name="valbtlogin">LOGIN</string>
+    <string name="valetloginmessage">Enter email</string>
+    <string name="valetloginmessagepwd">Enter password</string>
+    <string name="valbtregister">REGISTER</string>
+    <string name="valetfullname">Enter full name</string>
+    <string name="valetcountry">Enter country</string>
+    <string name="valetemail">Enter Email</string>
+    <string name="valetpassword">Enter password</string>
+    <string name="valbtsaveregister">SAVE</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
